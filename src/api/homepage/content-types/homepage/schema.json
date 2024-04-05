@@ -26,10 +26,10 @@
     "text": {
       "type": "richtext"
     },
-    "hp_media_links_list": {
+    "audioLink": {
       "type": "component",
       "repeatable": true,
-      "component": "links.media-links-list"
+      "component": "shared.menu"
     }
   }
 }
