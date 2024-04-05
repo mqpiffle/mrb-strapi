@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_links_media_links_lists",
+  "info": {
+    "displayName": "media_links_list"
+  },
+  "options": {},
+  "attributes": {
+    "links_title": {
+      "type": "string"
+    },
+    "media_links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.media-links"
+    }
+  }
+}
