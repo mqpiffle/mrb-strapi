@@ -1,7 +1,8 @@
 {
   "collectionName": "components_links_media_links_lists",
   "info": {
-    "displayName": "media_links_list"
+    "displayName": "media_links_list",
+    "description": ""
   },
   "options": {},
   "attributes": {
