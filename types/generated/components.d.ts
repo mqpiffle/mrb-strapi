@@ -10,6 +10,7 @@ export interface SharedMenu extends Schema.Component {
     displayName: Attribute.String;
     linkTo: Attribute.String;
     isActive: Attribute.Boolean;
+    icon: Attribute.Enumeration<['mdiApple', 'mdiSpotify', 'mdiYoutube']>;
   };
 }
 
